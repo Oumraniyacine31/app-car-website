@@ -1,0 +1,5 @@
+{
+  "name": "Location Voiture Oran - LuxeDrive Algérie",
+  "description": "Location de voiture à Oran et vente de véhicules de luxe en Algérie. Réservez votre voiture au meilleur prix avec LuxeDrive.",
+  "requestFramePermissions": ["geolocation"]
+}
